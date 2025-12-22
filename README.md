@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tam Minh HUynh</h1>
+<h1 align="center">Hi 👋, I'm Tam Minh Huynh</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamhm1410&label=Profile%20views&color=0e75b6&style=flat" alt="tamhm1410" /> </p>
